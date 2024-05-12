@@ -1,0 +1,21 @@
+# Temporary files.
+*.py[cod]
+*.sw?
+*~
+.coverage
+
+# Build remnants.
+html
+dist
+build
+_build
+*.egg-info
+
+# Python-related stuff
+env/
+.env/
+venv/
+__pycache__/
+
+# Auto-generated files.
+MANIFEST
